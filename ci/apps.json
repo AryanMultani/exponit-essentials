@@ -1,0 +1,16 @@
+[
+    {
+      "url": "https://github.com/frappe/crm",
+      "branch": "develop"
+    },
+    {
+        "url": "https://github.com/frappe/insights",
+        "branch": "develop"
+     },
+    {
+        "url": "https://github.com/frappe/builder",
+        "branch": "develop"
+    }
+    
+    
+]
